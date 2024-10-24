@@ -1,0 +1,6 @@
+#ifndef _FOC_MOTOR_PARAMETER_H
+#define _FOC_MOTOR_PARAMETER_H
+
+
+
+#endif
